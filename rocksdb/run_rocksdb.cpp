@@ -15,6 +15,8 @@ int main(int argc, char *argv[]) {
     RocksDBFactory factory(config.rocksdb.data_dir, config.rocksdb.options_file,
                            config.rocksdb.cache_size,
                            config.rocksdb.print_stats);
+ 
+
 	sleep(5);
 	OpProportion op_prop;
 	op_prop.op[READ] = config.workload.operation_proportion.read;
@@ -22,6 +24,7 @@ int main(int argc, char *argv[]) {
 	op_prop.op[INSERT] = config.workload.operation_proportion.insert;
 	op_prop.op[SCAN] = config.workload.operation_proportion.scan;
 	op_prop.op[READ_MODIFY_WRITE] = config.workload.operation_proportion.read_modify_write;
+
 	for (int i = 0; i < 2; ++i) {
 		long nr_op;
 		long runtime_seconds;
@@ -35,6 +38,7 @@ int main(int argc, char *argv[]) {
 			runtime_seconds = config.workload.runtime_seconds;
 		}
 		if (config.workload.request_distribution == "uniform") {
+
 			run_uniform_workload_with_op_measurement(i == 0 ? "Uniform (Warm-Up)" : "Uniform",
 			                                         &factory,
 			                                         config.database.nr_entry,

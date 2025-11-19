@@ -1,0 +1,593 @@
+ZipfianWorkload: start initializing zipfian variables, might take a while
+Zipfian (epoch 0, progress 0.00%): UPDATE throughput 0.00 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 0.00 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 0.00 ops/sec
+Zipfian (epoch 1, progress 0.05%): UPDATE throughput 210825.25 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 211959.62 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 422784.87 ops/sec
+Zipfian (epoch 2, progress 0.09%): UPDATE throughput 143647.35 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 144729.25 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 288376.60 ops/sec
+Zipfian (epoch 3, progress 0.12%): UPDATE throughput 106764.82 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 106315.86 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 213080.68 ops/sec
+Zipfian (epoch 4, progress 0.14%): UPDATE throughput 104863.09 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 104522.12 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 209385.20 ops/sec
+Zipfian (epoch 5, progress 0.16%): UPDATE throughput 85155.42 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 85441.40 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 170596.82 ops/sec
+Zipfian (epoch 6, progress 0.19%): UPDATE throughput 89989.63 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 89601.67 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 179591.30 ops/sec
+Zipfian (epoch 7, progress 0.21%): UPDATE throughput 91662.84 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 93057.72 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 184720.56 ops/sec
+Zipfian (epoch 8, progress 0.24%): UPDATE throughput 112715.70 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 112904.68 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 225620.38 ops/sec
+Zipfian (epoch 9, progress 0.28%): UPDATE throughput 163798.74 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 164223.68 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 328022.42 ops/sec
+Zipfian (epoch 10, progress 0.31%): UPDATE throughput 119347.84 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 118960.89 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 238308.73 ops/sec
+Zipfian (epoch 11, progress 0.34%): UPDATE throughput 128390.54 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 129080.45 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 257470.98 ops/sec
+Zipfian (epoch 12, progress 0.37%): UPDATE throughput 104421.18 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 104764.15 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 209185.34 ops/sec
+Zipfian (epoch 13, progress 0.39%): UPDATE throughput 104036.32 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 105019.23 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 209055.56 ops/sec
+Zipfian (epoch 14, progress 0.42%): UPDATE throughput 100309.67 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 100059.70 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 200369.37 ops/sec
+Zipfian (epoch 15, progress 0.44%): UPDATE throughput 83528.98 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 83253.01 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 166781.99 ops/sec
+Zipfian (epoch 16, progress 0.46%): UPDATE throughput 84511.39 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 85106.34 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 169617.73 ops/sec
+Zipfian (epoch 17, progress 0.48%): UPDATE throughput 88301.08 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 88980.99 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 177282.07 ops/sec
+Zipfian (epoch 18, progress 0.51%): UPDATE throughput 124816.15 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 125132.11 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 249948.26 ops/sec
+Zipfian (epoch 19, progress 0.55%): UPDATE throughput 158034.03 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 157803.07 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 315837.10 ops/sec
+Zipfian (epoch 20, progress 0.58%): UPDATE throughput 122124.10 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 122374.07 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 244498.17 ops/sec
+Zipfian (epoch 21, progress 0.61%): UPDATE throughput 128328.45 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 128670.42 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 256998.87 ops/sec
+Zipfian (epoch 22, progress 0.64%): UPDATE throughput 102704.76 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 102087.81 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 204792.57 ops/sec
+Zipfian (epoch 23, progress 0.67%): UPDATE throughput 104693.47 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 105231.42 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 209924.90 ops/sec
+Zipfian (epoch 24, progress 0.69%): UPDATE throughput 97068.94 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 98612.82 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 195681.76 ops/sec
+Zipfian (epoch 25, progress 0.71%): UPDATE throughput 82459.99 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 82497.99 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 164957.98 ops/sec
+Zipfian (epoch 26, progress 0.73%): UPDATE throughput 86169.76 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 85696.80 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 171866.56 ops/sec
+Zipfian (epoch 27, progress 0.75%): UPDATE throughput 86114.34 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 85531.39 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 171645.72 ops/sec
+Zipfian (epoch 28, progress 0.79%): UPDATE throughput 132239.36 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 132448.34 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 264687.71 ops/sec
+Zipfian (epoch 29, progress 0.83%): UPDATE throughput 151655.20 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 151649.20 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 303304.40 ops/sec
+Zipfian (epoch 30, progress 0.85%): UPDATE throughput 116833.37 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 117163.34 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 233996.71 ops/sec
+Zipfian (epoch 31, progress 0.89%): UPDATE throughput 120967.60 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 121358.56 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 242326.16 ops/sec
+Zipfian (epoch 32, progress 0.91%): UPDATE throughput 96667.59 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 96758.58 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 193426.17 ops/sec
+Zipfian (epoch 33, progress 0.93%): UPDATE throughput 94956.22 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 94364.28 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 189320.50 ops/sec
+Zipfian (epoch 34, progress 0.96%): UPDATE throughput 94984.02 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 94191.09 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 189175.11 ops/sec
+Zipfian (epoch 35, progress 0.97%): UPDATE throughput 72582.73 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 72711.71 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 145294.44 ops/sec
+Zipfian (epoch 36, progress 0.99%): UPDATE throughput 75982.65 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 76009.65 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 151992.30 ops/sec
+Zipfian (epoch 37, progress 1.01%): UPDATE throughput 76505.05 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 78313.84 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 154818.89 ops/sec
+Zipfian (epoch 38, progress 1.05%): UPDATE throughput 133634.95 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 133929.91 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 267564.87 ops/sec
+Zipfian (epoch 39, progress 1.08%): UPDATE throughput 153039.50 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 152828.53 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 305868.04 ops/sec
+Zipfian (epoch 40, progress 1.12%): UPDATE throughput 120741.89 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 121549.77 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 242291.66 ops/sec
+Zipfian (epoch 41, progress 1.14%): UPDATE throughput 115885.23 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 115524.29 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 231409.51 ops/sec
+Zipfian (epoch 42, progress 1.17%): UPDATE throughput 106284.27 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 107255.13 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 213539.40 ops/sec
+Zipfian (epoch 43, progress 1.19%): UPDATE throughput 93114.31 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 93410.27 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 186524.58 ops/sec
+Zipfian (epoch 44, progress 1.22%): UPDATE throughput 97103.73 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 97013.74 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 194117.46 ops/sec
+Zipfian (epoch 45, progress 1.24%): UPDATE throughput 83611.96 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 84509.83 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 168121.79 ops/sec
+Zipfian (epoch 46, progress 1.26%): UPDATE throughput 76350.78 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 76042.82 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 152393.60 ops/sec
+Zipfian (epoch 47, progress 1.28%): UPDATE throughput 78263.26 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 77750.34 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 156013.60 ops/sec
+Zipfian (epoch 48, progress 1.30%): UPDATE throughput 97896.02 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 97923.02 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 195819.04 ops/sec
+Zipfian (epoch 49, progress 1.34%): UPDATE throughput 150574.02 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 151049.95 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 301623.96 ops/sec
+Zipfian (epoch 50, progress 1.38%): UPDATE throughput 139257.60 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 139614.54 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 278872.15 ops/sec
+Zipfian (epoch 51, progress 1.40%): UPDATE throughput 115649.88 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 115390.92 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 231040.81 ops/sec
+Zipfian (epoch 52, progress 1.43%): UPDATE throughput 116977.57 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 116838.59 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 233816.16 ops/sec
+Zipfian (epoch 53, progress 1.46%): UPDATE throughput 91842.97 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 93032.81 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 184875.78 ops/sec
+Zipfian (epoch 54, progress 1.48%): UPDATE throughput 97512.61 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 98142.56 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 195655.17 ops/sec
+Zipfian (epoch 55, progress 1.50%): UPDATE throughput 93400.06 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 92969.10 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 186369.16 ops/sec
+Zipfian (epoch 56, progress 1.52%): UPDATE throughput 77273.88 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 76765.94 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 154039.82 ops/sec
+Zipfian (epoch 57, progress 1.54%): UPDATE throughput 79058.22 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 78739.27 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 157797.49 ops/sec
+Zipfian (epoch 58, progress 1.56%): UPDATE throughput 79551.83 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 80172.73 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 159724.56 ops/sec
+Zipfian (epoch 59, progress 1.60%): UPDATE throughput 139718.37 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 139731.37 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 279449.75 ops/sec
+Zipfian (epoch 60, progress 1.64%): UPDATE throughput 157530.41 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 158484.30 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 316014.71 ops/sec
+Zipfian (epoch 61, progress 1.67%): UPDATE throughput 114925.57 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 115015.55 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 229941.12 ops/sec
+Zipfian (epoch 62, progress 1.70%): UPDATE throughput 116893.87 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 117736.75 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 234630.62 ops/sec
+Zipfian (epoch 63, progress 1.72%): UPDATE throughput 101198.06 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 101588.01 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 202786.07 ops/sec
+Zipfian (epoch 64, progress 1.74%): UPDATE throughput 94743.01 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 95105.97 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 189848.98 ops/sec
+Zipfian (epoch 65, progress 1.77%): UPDATE throughput 98816.24 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 98488.28 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 197304.52 ops/sec
+Zipfian (epoch 66, progress 1.79%): UPDATE throughput 78376.07 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 79562.93 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 157938.99 ops/sec
+Zipfian (epoch 67, progress 1.81%): UPDATE throughput 76742.10 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 76856.09 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 153598.19 ops/sec
+Zipfian (epoch 68, progress 1.83%): UPDATE throughput 79449.09 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 79458.09 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 158907.18 ops/sec
+Zipfian (epoch 69, progress 1.86%): UPDATE throughput 122163.88 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 121592.94 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 243756.82 ops/sec
+Zipfian (epoch 70, progress 1.90%): UPDATE throughput 152533.73 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 153163.67 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 305697.40 ops/sec
+Zipfian (epoch 71, progress 1.93%): UPDATE throughput 128440.97 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 127954.03 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 256395.00 ops/sec
+Zipfian (epoch 72, progress 1.96%): UPDATE throughput 118361.68 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 119429.55 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 237791.23 ops/sec
+Zipfian (epoch 73, progress 1.99%): UPDATE throughput 112848.30 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 113071.28 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 225919.57 ops/sec
+Zipfian (epoch 74, progress 2.01%): UPDATE throughput 96160.94 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 97507.79 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 193668.73 ops/sec
+Zipfian (epoch 75, progress 2.04%): UPDATE throughput 100439.15 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 99921.21 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 200360.36 ops/sec
+Zipfian (epoch 76, progress 2.06%): UPDATE throughput 86713.63 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 87225.59 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 173939.22 ops/sec
+Zipfian (epoch 77, progress 2.08%): UPDATE throughput 78768.46 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 79337.41 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 158105.88 ops/sec
+Zipfian (epoch 78, progress 2.10%): UPDATE throughput 82362.75 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 80986.87 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 163349.63 ops/sec
+Zipfian (epoch 79, progress 2.12%): UPDATE throughput 104164.46 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 104145.46 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 208309.92 ops/sec
+Zipfian (epoch 80, progress 2.16%): UPDATE throughput 156136.64 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 157737.49 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 313874.12 ops/sec
+Zipfian (epoch 81, progress 2.20%): UPDATE throughput 141675.96 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 140786.03 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 282461.99 ops/sec
+Zipfian (epoch 82, progress 2.23%): UPDATE throughput 122709.36 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 122687.36 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 245396.72 ops/sec
+Zipfian (epoch 83, progress 2.26%): UPDATE throughput 118246.77 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 117529.83 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 235776.60 ops/sec
+Zipfian (epoch 84, progress 2.28%): UPDATE throughput 100439.36 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 101279.29 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 201718.65 ops/sec
+Zipfian (epoch 85, progress 2.31%): UPDATE throughput 104607.21 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 104274.24 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 208881.45 ops/sec
+Zipfian (epoch 86, progress 2.33%): UPDATE throughput 84988.86 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 85836.79 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 170825.65 ops/sec
+Zipfian (epoch 87, progress 2.35%): UPDATE throughput 73072.45 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 72389.53 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 145461.98 ops/sec
+Zipfian (epoch 88, progress 2.37%): UPDATE throughput 72636.43 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 73093.37 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 145729.80 ops/sec
+Zipfian (epoch 89, progress 2.39%): UPDATE throughput 106486.84 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 107205.78 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 213692.62 ops/sec
+Zipfian (epoch 90, progress 2.43%): UPDATE throughput 151922.24 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 152961.15 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 304883.39 ops/sec
+Zipfian (epoch 91, progress 2.47%): UPDATE throughput 138557.36 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 139288.30 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 277845.66 ops/sec
+Zipfian (epoch 92, progress 2.50%): UPDATE throughput 115306.43 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 115389.42 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 230695.85 ops/sec
+Zipfian (epoch 93, progress 2.52%): UPDATE throughput 114533.61 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 115138.56 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 229672.17 ops/sec
+Zipfian (epoch 94, progress 2.55%): UPDATE throughput 92060.54 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 92268.53 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 184329.07 ops/sec
+Zipfian (epoch 95, progress 2.57%): UPDATE throughput 93526.33 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 93139.36 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 186665.69 ops/sec
+Zipfian (epoch 96, progress 2.59%): UPDATE throughput 90939.00 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 90210.08 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 181149.07 ops/sec
+Zipfian (epoch 97, progress 2.61%): UPDATE throughput 72652.35 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 72624.36 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 145276.71 ops/sec
+Zipfian (epoch 98, progress 2.63%): UPDATE throughput 73597.82 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 73654.81 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 147252.63 ops/sec
+Zipfian (epoch 99, progress 2.65%): UPDATE throughput 74305.38 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 75957.19 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 150262.57 ops/sec
+Zipfian (epoch 100, progress 2.69%): UPDATE throughput 153572.20 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 154419.05 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 307991.25 ops/sec
+Zipfian (epoch 101, progress 2.73%): UPDATE throughput 154787.47 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 154953.45 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 309740.92 ops/sec
+Zipfian (epoch 102, progress 2.76%): UPDATE throughput 115929.07 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 114780.24 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 230709.32 ops/sec
+Zipfian (epoch 103, progress 2.78%): UPDATE throughput 116377.78 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 117149.66 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 233527.44 ops/sec
+Zipfian (epoch 104, progress 2.81%): UPDATE throughput 100665.10 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 101041.05 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 201706.15 ops/sec
+Zipfian (epoch 105, progress 2.83%): UPDATE throughput 91217.59 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 92284.43 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 183502.03 ops/sec
+Zipfian (epoch 106, progress 2.86%): UPDATE throughput 95127.68 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 94029.81 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 189157.49 ops/sec
+Zipfian (epoch 107, progress 2.88%): UPDATE throughput 76921.38 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 78069.29 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 154990.67 ops/sec
+Zipfian (epoch 108, progress 2.89%): UPDATE throughput 72638.90 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 72133.94 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 144772.84 ops/sec
+Zipfian (epoch 109, progress 2.91%): UPDATE throughput 74107.26 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 74233.24 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 148340.50 ops/sec
+Zipfian (epoch 110, progress 2.94%): UPDATE throughput 116515.37 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 117419.26 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 233934.63 ops/sec
+Zipfian (epoch 111, progress 2.98%): UPDATE throughput 154291.02 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 152886.19 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 307177.22 ops/sec
+Zipfian (epoch 112, progress 3.01%): UPDATE throughput 134223.19 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 135087.11 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 269310.30 ops/sec
+Zipfian (epoch 113, progress 3.04%): UPDATE throughput 113853.09 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 116332.88 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 230185.97 ops/sec
+Zipfian (epoch 114, progress 3.07%): UPDATE throughput 114341.97 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 114324.97 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 228666.93 ops/sec
+Zipfian (epoch 115, progress 3.09%): UPDATE throughput 92659.40 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 92031.48 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 184690.88 ops/sec
+Zipfian (epoch 116, progress 3.12%): UPDATE throughput 93709.16 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 93782.15 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 187491.31 ops/sec
+Zipfian (epoch 117, progress 3.14%): UPDATE throughput 88836.21 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 89365.13 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 178201.34 ops/sec
+Zipfian (epoch 118, progress 3.16%): UPDATE throughput 72338.06 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 72457.04 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 144795.11 ops/sec
+Zipfian (epoch 119, progress 3.18%): UPDATE throughput 72564.40 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 73294.33 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 145858.73 ops/sec
+Zipfian (epoch 120, progress 3.19%): UPDATE throughput 74358.61 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 74214.62 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 148573.22 ops/sec
+time's up!
+Zipfian: calculating overall performance metrics... (might take a while)
+Zipfian overall: UPDATE throughput 106366.07 ops/sec, INSERT throughput 0.00 ops/sec, READ throughput 106592.52 ops/sec, SCAN throughput 0.00 ops/sec, READ_MODIFY_WRITE throughput 0.00 ops/sec, total throughput 212958.59 ops/sec
+Zipfian overall: UPDATE average latency 52788.64 ns, UPDATE p99 latency 216551.00 ns, INSERT average latency 0.00 ns, INSERT p99 latency 0.00 ns, READ average latency 94035.00 ns, READ p99 latency 328760.00 ns, SCAN average latency 0.00 ns, SCAN p99 latency 0.00 ns, READ_MODIFY_WRITE average latency 0.00 ns, READ_MODIFY_WRITE p99 latency 0.00 ns
+
+==== DB: /mydata/rocksdb-data ===
+
+Level Files Size(MB)
+--------------------
+  0        0        0
+  1        5      251
+  2       45     2556
+  3      423    25575
+  4     1375    82298
+
+
+==== DB: /mydata/rocksdb-data ===
+
+
+** Compaction Stats [default] **
+Level    Files   Size     Score Read(GB)  Rn(GB) Rnp1(GB) Write(GB) WPreComp(GB) Wnew(GB) Moved(GB) W-Amp Rd(MB/s) Wr(MB/s) Comp(sec) CompMergeCPU(sec) Comp(cnt) Avg(sec) KeyIn KeyDrop Rblob(GB) Wblob(GB)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  L0      0/0      0.00 KB   0.0      0.0     0.0      0.0       0.7       0.7      0.7       0.0   1.0      0.0    160.1      4.24              3.89        47    0.090     12M      0       0.0       0.0
+  L1      5/0    250.54 MB   1.0      3.6     0.7      2.9       2.9       2.9      0.0       0.0   4.4     89.9     73.2     41.09             37.07        12    3.425     17M  3301K       0.0       0.0
+  L2     45/0      2.50 GB   1.0      0.0     0.0      0.0       0.0       0.0      0.0       0.0   0.0      0.0      0.0      0.00              0.00         0    0.000       0      0       0.0       0.0
+  L3    423/0     24.98 GB   1.0      0.0     0.0      0.0       0.0       0.0      0.0       0.0   0.0      0.0      0.0      0.00              0.00         0    0.000       0      0       0.0       0.0
+  L4   1375/0     80.37 GB   0.0      0.0     0.0      0.0       0.0       0.0      0.0       0.0   0.0      0.0      0.0      0.00              0.00         0    0.000       0      0       0.0       0.0
+ Sum   1848/0    108.09 GB   0.0      3.6     0.7      2.9       3.6       3.6      0.7       0.0   5.4     81.5     81.3     45.33             40.96        59    0.768     30M  3301K       0.0       0.0
+ Int      0/0      0.00 KB   0.0      3.6     0.7      2.9       3.6       3.6      0.7       0.0   5.5     81.6     81.2     45.28             40.96        58    0.781     30M  3301K       0.0       0.0
+
+** Compaction Stats [default] **
+Priority    Files   Size     Score Read(GB)  Rn(GB) Rnp1(GB) Write(GB) WPreComp(GB) Wnew(GB) Moved(GB) W-Amp Rd(MB/s) Wr(MB/s) Comp(sec) CompMergeCPU(sec) Comp(cnt) Avg(sec) KeyIn KeyDrop Rblob(GB) Wblob(GB)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Low      0/0      0.00 KB   0.0      3.6     0.7      2.9       2.9       2.9      0.0       0.0   0.0     89.9     73.2     41.09             37.07        12    3.425     17M  3301K       0.0       0.0
+High      0/0      0.00 KB   0.0      0.0     0.0      0.0       0.7       0.7      0.7       0.0   0.0      0.0    159.9      4.18              3.89        46    0.091     12M      0       0.0       0.0
+User      0/0      0.00 KB   0.0      0.0     0.0      0.0       0.0       0.0      0.0       0.0   0.0      0.0    181.2      0.06              0.00         1    0.056    258K      0       0.0       0.0
+
+Blob file count: 0, total size: 0.0 GB, garbage size: 0.0 GB, space amp: 0.0
+
+Uptime(secs): 145.8 total, 145.1 interval
+Flush(GB): cumulative 0.663, interval 0.653
+AddFile(GB): cumulative 0.000, interval 0.000
+AddFile(Total Files): cumulative 0, interval 0
+AddFile(L0 Files): cumulative 0, interval 0
+AddFile(Keys): cumulative 0, interval 0
+Cumulative compaction: 3.60 GB write, 25.27 MB/s write, 3.61 GB read, 25.34 MB/s read, 45.3 seconds
+Interval compaction: 3.59 GB write, 25.32 MB/s write, 3.61 GB read, 25.46 MB/s read, 45.3 seconds
+Estimated pending compaction bytes: 0
+Write Stall (count): cf-l0-file-count-limit-delays-with-ongoing-compaction: 0, cf-l0-file-count-limit-stops-with-ongoing-compaction: 0, l0-file-count-limit-delays: 0, l0-file-count-limit-stops: 0, memtable-limit-delays: 0, memtable-limit-stops: 0, pending-compaction-bytes-delays: 0, pending-compaction-bytes-stops: 0, total-delays: 0, total-stops: 0
+
+** File Read Latency Histogram By Level [default] **
+** Level 0 read latency histogram (micros):
+Count: 28757221 Average: 1.4270  StdDev: 0.56
+Min: 0  Median: 0.8562  Max: 651
+Percentiles: P50: 0.86 P75: 1.41 P99: 1.99 P99.9: 2.60 P99.99: 2.70
+------------------------------------------------------
+[       0,       1 ] 16792787  58.395%  58.395% ############
+(       1,       2 ] 11763727  40.907%  99.302% ########
+(       2,       3 ]   284384   0.989% 100.291% 
+(       3,       4 ]    11705   0.041% 100.332% 
+(       4,       6 ]    29737   0.103% 100.435% 
+(       6,      10 ]     4633   0.016% 100.451% 
+(      10,      15 ]      156   0.001% 100.452% 
+(      15,      22 ]       54   0.000% 100.452% 
+(      22,      34 ]       27   0.000% 100.452% 
+(      34,      51 ]        6   0.000% 100.452% 
+(      51,      76 ]        2   0.000% 100.452% 
+(      76,     110 ]        1   0.000% 100.452% 
+(     110,     170 ]        1   0.000% 100.452% 
+(     580,     870 ]        1   0.000% 100.452% 
+
+** Level 1 read latency histogram (micros):
+Count: 10758696 Average: 1.4974  StdDev: 1.15
+Min: 0  Median: 0.9610  Max: 2048
+Percentiles: P50: 0.96 P75: 1.50 P99: 2.44 P99.9: 2.96 P99.99: 3.46
+------------------------------------------------------
+[       0,       1 ]  5597612  52.029%  52.029% ##########
+(       1,       2 ]  4971302  46.207%  98.236% #########
+(       2,       3 ]   186293   1.732%  99.968% 
+(       3,       4 ]     5221   0.049% 100.016% 
+(       4,       6 ]    11572   0.108% 100.124% 
+(       6,      10 ]     2036   0.019% 100.143% 
+(      10,      15 ]       58   0.001% 100.143% 
+(      15,      22 ]       17   0.000% 100.143% 
+(      22,      34 ]        5   0.000% 100.143% 
+(      34,      51 ]        2   0.000% 100.143% 
+(      51,      76 ]       23   0.000% 100.144% 
+(      76,     110 ]       25   0.000% 100.144% 
+(     380,     580 ]        1   0.000% 100.144% 
+(     870,    1300 ]        1   0.000% 100.144% 
+(    1300,    1900 ]        2   0.000% 100.144% 
+(    1900,    2900 ]        1   0.000% 100.144% 
+
+** Level 2 read latency histogram (micros):
+Count: 5010562 Average: 1.6611  StdDev: 2.86
+Min: 0  Median: 1.1934  Max: 2360
+Percentiles: P50: 1.19 P75: 1.63 P99: 2.78 P99.9: 3.15 P99.99: 4.66
+------------------------------------------------------
+[       0,       1 ]  1955191  39.021%  39.021% ########
+(       1,       2 ]  2843916  56.758%  95.780% ###########
+(       2,       3 ]   206009   4.111%  99.891% #
+(       3,       4 ]     2937   0.059%  99.950% 
+(       4,       6 ]     6045   0.121% 100.071% 
+(       6,      10 ]     1406   0.028% 100.099% 
+(      10,      15 ]       30   0.001% 100.099% 
+(      15,      22 ]        7   0.000% 100.099% 
+(      22,      34 ]        2   0.000% 100.099% 
+(      34,      51 ]        1   0.000% 100.099% 
+(      51,      76 ]        2   0.000% 100.099% 
+(     110,     170 ]        1   0.000% 100.099% 
+(     170,     250 ]        2   0.000% 100.100% 
+(     250,     380 ]        2   0.000% 100.100% 
+(     380,     580 ]        1   0.000% 100.100% 
+(     580,     870 ]       21   0.000% 100.100% 
+(     870,    1300 ]       11   0.000% 100.100% 
+(    1300,    1900 ]        5   0.000% 100.100% 
+(    1900,    2900 ]        1   0.000% 100.100% 
+
+** Level 3 read latency histogram (micros):
+Count: 5189155 Average: 1.9221  StdDev: 8.49
+Min: 0  Median: 1.3698  Max: 4288
+Percentiles: P50: 1.37 P75: 1.80 P99: 2.96 P99.9: 5.21 P99.99: 9.60
+------------------------------------------------------
+[       0,       1 ]  1470946  28.347%  28.347% ######
+(       1,       2 ]  3038152  58.548%  86.895% ############
+(       2,       3 ]   655481  12.632%  99.526% ###
+(       3,       4 ]    15289   0.295%  99.821% 
+(       4,       6 ]     6763   0.130%  99.951% 
+(       6,      10 ]     2227   0.043%  99.994% 
+(      10,      15 ]       27   0.001%  99.995% 
+(      15,      22 ]       10   0.000%  99.995% 
+(      22,      34 ]        4   0.000%  99.995% 
+(      34,      51 ]        2   0.000%  99.995% 
+(      51,      76 ]        1   0.000%  99.995% 
+(     110,     170 ]        2   0.000%  99.995% 
+(     170,     250 ]        3   0.000%  99.995% 
+(     250,     380 ]       12   0.000%  99.995% 
+(     380,     580 ]       62   0.001%  99.997% 
+(     580,     870 ]      170   0.003% 100.000% 
+(     870,    1300 ]      131   0.003% 100.002% 
+(    1300,    1900 ]       34   0.001% 100.003% 
+(    1900,    2900 ]        6   0.000% 100.003% 
+(    2900,    4400 ]        1   0.000% 100.003% 
+
+** Level 4 read latency histogram (micros):
+Count: 4009919 Average: 2.4719  StdDev: 25.83
+Min: 0  Median: 1.5145  Max: 3772
+Percentiles: P50: 1.51 P75: 1.95 P99: 3.00 P99.9: 5.89 P99.99: 1462.45
+------------------------------------------------------
+[       0,       1 ]   831250  20.730%  20.730% ####
+(       1,       2 ]  2281125  56.887%  77.617% ###########
+(       2,       3 ]   860030  21.448%  99.064% ####
+(       3,       4 ]    28142   0.702%  99.766% 
+(       4,       6 ]     5660   0.141%  99.907% 
+(       6,      10 ]     2486   0.062%  99.969% 
+(      10,      15 ]       28   0.001%  99.970% 
+(      15,      22 ]        8   0.000%  99.970% 
+(      22,      34 ]        7   0.000%  99.970% 
+(      34,      51 ]        4   0.000%  99.971% 
+(      76,     110 ]        7   0.000%  99.971% 
+(     110,     170 ]        7   0.000%  99.971% 
+(     170,     250 ]       19   0.000%  99.971% 
+(     250,     380 ]       24   0.001%  99.972% 
+(     380,     580 ]       51   0.001%  99.973% 
+(     580,     870 ]      163   0.004%  99.977% 
+(     870,    1300 ]      334   0.008%  99.986% 
+(    1300,    1900 ]      639   0.016% 100.002% 
+(    1900,    2900 ]      108   0.003% 100.004% 
+(    2900,    4400 ]        9   0.000% 100.005% 
+
+
+** DB Stats **
+Uptime(secs): 145.8 total, 145.1 interval
+Cumulative writes: 12M writes, 12M keys, 9897K commit groups, 1.3 writes per commit group, ingest: 2.70 GB, 18.98 MB/s
+Cumulative WAL: 12M writes, 0 syncs, 12765340.00 writes per sync, written: 2.70 GB, 18.98 MB/s
+Cumulative stall: 00:00:0.000 H:M:S, 0.0 percent
+Interval writes: 12M writes, 12M keys, 9897K commit groups, 1.3 writes per commit group, ingest: 2767.20 MB, 19.07 MB/s
+Interval WAL: 12M writes, 0 syncs, 12765340.00 writes per sync, written: 2.70 GB, 19.07 MB/s
+Interval stall: 00:00:0.000 H:M:S, 0.0 percent
+Write Stall (count): write-buffer-manager-limit-stops: 0
+
+=== RocksDB Stats Start ===
+rocksdb.block.cache.miss COUNT : 53953078
+rocksdb.block.cache.hit COUNT : 5121656
+rocksdb.block.cache.add COUNT : 52965438
+rocksdb.block.cache.add.failures COUNT : 0
+rocksdb.block.cache.index.miss COUNT : 0
+rocksdb.block.cache.index.hit COUNT : 0
+rocksdb.block.cache.index.add COUNT : 0
+rocksdb.block.cache.index.bytes.insert COUNT : 0
+rocksdb.block.cache.filter.miss COUNT : 0
+rocksdb.block.cache.filter.hit COUNT : 0
+rocksdb.block.cache.filter.add COUNT : 0
+rocksdb.block.cache.filter.bytes.insert COUNT : 0
+rocksdb.block.cache.data.miss COUNT : 53953078
+rocksdb.block.cache.data.hit COUNT : 5121656
+rocksdb.block.cache.data.add COUNT : 52965438
+rocksdb.block.cache.data.bytes.insert COUNT : 212767314080
+rocksdb.block.cache.bytes.read COUNT : 20570118864
+rocksdb.block.cache.bytes.write COUNT : 212767314080
+rocksdb.block.cache.compression.dict.miss COUNT : 0
+rocksdb.block.cache.compression.dict.hit COUNT : 0
+rocksdb.block.cache.compression.dict.add COUNT : 0
+rocksdb.block.cache.compression.dict.bytes.insert COUNT : 0
+rocksdb.block.cache.add.redundant COUNT : 3674370
+rocksdb.block.cache.index.add.redundant COUNT : 0
+rocksdb.block.cache.filter.add.redundant COUNT : 0
+rocksdb.block.cache.data.add.redundant COUNT : 3674370
+rocksdb.block.cache.compression.dict.add.redundant COUNT : 0
+rocksdb.secondary.cache.hits COUNT : 0
+rocksdb.secondary.cache.filter.hits COUNT : 0
+rocksdb.secondary.cache.index.hits COUNT : 0
+rocksdb.secondary.cache.data.hits COUNT : 0
+rocksdb.compressed.secondary.cache.dummy.hits COUNT : 0
+rocksdb.compressed.secondary.cache.hits COUNT : 0
+rocksdb.compressed.secondary.cache.promotions COUNT : 0
+rocksdb.compressed.secondary.cache.promotion.skips COUNT : 0
+rocksdb.bloom.filter.useful COUNT : 0
+rocksdb.bloom.filter.full.positive COUNT : 0
+rocksdb.bloom.filter.full.true.positive COUNT : 0
+rocksdb.bloom.filter.prefix.checked COUNT : 0
+rocksdb.bloom.filter.prefix.useful COUNT : 0
+rocksdb.bloom.filter.prefix.true.positive COUNT : 0
+rocksdb.persistent.cache.hit COUNT : 0
+rocksdb.persistent.cache.miss COUNT : 0
+rocksdb.sim.block.cache.hit COUNT : 0
+rocksdb.sim.block.cache.miss COUNT : 0
+rocksdb.memtable.hit COUNT : 11916757
+rocksdb.memtable.miss COUNT : 13641113
+rocksdb.l0.hit COUNT : 2747781
+rocksdb.l1.hit COUNT : 5004053
+rocksdb.l2andup.hit COUNT : 5889279
+rocksdb.compaction.key.drop.new COUNT : 3301358
+rocksdb.compaction.key.drop.obsolete COUNT : 0
+rocksdb.compaction.key.drop.range_del COUNT : 0
+rocksdb.compaction.key.drop.user COUNT : 0
+rocksdb.compaction.range_del.drop.obsolete COUNT : 0
+rocksdb.compaction.optimized.del.drop.obsolete COUNT : 0
+rocksdb.compaction.cancelled COUNT : 0
+rocksdb.number.keys.written COUNT : 12765340
+rocksdb.number.keys.read COUNT : 25557870
+rocksdb.number.keys.updated COUNT : 0
+rocksdb.bytes.written COUNT : 2901619184
+rocksdb.bytes.read COUNT : 5086016130
+rocksdb.number.db.seek COUNT : 0
+rocksdb.number.db.next COUNT : 0
+rocksdb.number.db.prev COUNT : 0
+rocksdb.number.db.seek.found COUNT : 0
+rocksdb.number.db.next.found COUNT : 0
+rocksdb.number.db.prev.found COUNT : 0
+rocksdb.db.iter.bytes.read COUNT : 0
+rocksdb.number.iter.skip COUNT : 0
+rocksdb.number.reseeks.iteration COUNT : 0
+rocksdb.num.iterator.created COUNT : 0
+rocksdb.num.iterator.deleted COUNT : 0
+rocksdb.no.file.opens COUNT : 1956
+rocksdb.no.file.errors COUNT : 0
+rocksdb.stall.micros COUNT : 0
+rocksdb.db.mutex.wait.micros COUNT : 75271665
+rocksdb.number.multiget.get COUNT : 0
+rocksdb.number.multiget.keys.read COUNT : 0
+rocksdb.number.multiget.bytes.read COUNT : 0
+rocksdb.number.multiget.keys.found COUNT : 0
+rocksdb.number.merge.failures COUNT : 0
+rocksdb.getupdatessince.calls COUNT : 0
+rocksdb.wal.synced COUNT : 0
+rocksdb.wal.bytes COUNT : 2901619184
+rocksdb.write.self COUNT : 9897922
+rocksdb.write.other COUNT : 2867418
+rocksdb.write.wal COUNT : 12765340
+rocksdb.compact.read.bytes COUNT : 3871015534
+rocksdb.compact.write.bytes COUNT : 3163296392
+rocksdb.flush.write.bytes COUNT : 701030116
+rocksdb.compact.read.marked.bytes COUNT : 0
+rocksdb.compact.read.periodic.bytes COUNT : 0
+rocksdb.compact.read.ttl.bytes COUNT : 0
+rocksdb.compact.write.marked.bytes COUNT : 0
+rocksdb.compact.write.periodic.bytes COUNT : 0
+rocksdb.compact.write.ttl.bytes COUNT : 0
+rocksdb.number.direct.load.table.properties COUNT : 0
+rocksdb.number.superversion_acquires COUNT : 1664
+rocksdb.number.superversion_releases COUNT : 843
+rocksdb.number.superversion_cleanups COUNT : 81
+rocksdb.number.block.compressed COUNT : 0
+rocksdb.number.block.decompressed COUNT : 0
+rocksdb.bytes.compressed.from COUNT : 0
+rocksdb.bytes.compressed.to COUNT : 0
+rocksdb.bytes.compression_bypassed COUNT : 3859268151
+rocksdb.bytes.compression.rejected COUNT : 0
+rocksdb.number.block_compression_bypassed COUNT : 984951
+rocksdb.number.block_compression_rejected COUNT : 0
+rocksdb.bytes.decompressed.from COUNT : 0
+rocksdb.bytes.decompressed.to COUNT : 0
+rocksdb.merge.operation.time.nanos COUNT : 0
+rocksdb.filter.operation.time.nanos COUNT : 0
+rocksdb.compaction.total.time.cpu_micros COUNT : 37069653
+rocksdb.row.cache.hit COUNT : 0
+rocksdb.row.cache.miss COUNT : 0
+rocksdb.read.amp.estimate.useful.bytes COUNT : 0
+rocksdb.read.amp.total.read.bytes COUNT : 0
+rocksdb.number.rate_limiter.drains COUNT : 0
+rocksdb.blobdb.num.put COUNT : 0
+rocksdb.blobdb.num.write COUNT : 0
+rocksdb.blobdb.num.get COUNT : 0
+rocksdb.blobdb.num.multiget COUNT : 0
+rocksdb.blobdb.num.seek COUNT : 0
+rocksdb.blobdb.num.next COUNT : 0
+rocksdb.blobdb.num.prev COUNT : 0
+rocksdb.blobdb.num.keys.written COUNT : 0
+rocksdb.blobdb.num.keys.read COUNT : 0
+rocksdb.blobdb.bytes.written COUNT : 0
+rocksdb.blobdb.bytes.read COUNT : 0
+rocksdb.blobdb.write.inlined COUNT : 0
+rocksdb.blobdb.write.inlined.ttl COUNT : 0
+rocksdb.blobdb.write.blob COUNT : 0
+rocksdb.blobdb.write.blob.ttl COUNT : 0
+rocksdb.blobdb.blob.file.bytes.written COUNT : 0
+rocksdb.blobdb.blob.file.bytes.read COUNT : 0
+rocksdb.blobdb.blob.file.synced COUNT : 0
+rocksdb.blobdb.blob.index.expired.count COUNT : 0
+rocksdb.blobdb.blob.index.expired.size COUNT : 0
+rocksdb.blobdb.blob.index.evicted.count COUNT : 0
+rocksdb.blobdb.blob.index.evicted.size COUNT : 0
+rocksdb.blobdb.gc.num.files COUNT : 0
+rocksdb.blobdb.gc.num.new.files COUNT : 0
+rocksdb.blobdb.gc.failures COUNT : 0
+rocksdb.blobdb.gc.num.keys.relocated COUNT : 0
+rocksdb.blobdb.gc.bytes.relocated COUNT : 0
+rocksdb.blobdb.fifo.num.files.evicted COUNT : 0
+rocksdb.blobdb.fifo.num.keys.evicted COUNT : 0
+rocksdb.blobdb.fifo.bytes.evicted COUNT : 0
+rocksdb.blobdb.cache.miss COUNT : 0
+rocksdb.blobdb.cache.hit COUNT : 0
+rocksdb.blobdb.cache.add COUNT : 0
+rocksdb.blobdb.cache.add.failures COUNT : 0
+rocksdb.blobdb.cache.bytes.read COUNT : 0
+rocksdb.blobdb.cache.bytes.write COUNT : 0
+rocksdb.txn.overhead.mutex.prepare COUNT : 0
+rocksdb.txn.overhead.mutex.old.commit.map COUNT : 0
+rocksdb.txn.overhead.duplicate.key COUNT : 0
+rocksdb.txn.overhead.mutex.snapshot COUNT : 0
+rocksdb.txn.get.tryagain COUNT : 0
+rocksdb.files.marked.trash COUNT : 0
+rocksdb.files.marked.trash.deleted COUNT : 0
+rocksdb.files.deleted.immediately COUNT : 155
+rocksdb.error.handler.bg.error.count COUNT : 0
+rocksdb.error.handler.bg.io.error.count COUNT : 0
+rocksdb.error.handler.bg.retryable.io.error.count COUNT : 0
+rocksdb.error.handler.autoresume.count COUNT : 0
+rocksdb.error.handler.autoresume.retry.total.count COUNT : 0
+rocksdb.error.handler.autoresume.success.count COUNT : 0
+rocksdb.memtable.payload.bytes.at.flush COUNT : 2779926624
+rocksdb.memtable.garbage.bytes.at.flush COUNT : 2069231364
+rocksdb.verify_checksum.read.bytes COUNT : 0
+rocksdb.backup.read.bytes COUNT : 0
+rocksdb.backup.write.bytes COUNT : 0
+rocksdb.remote.compact.read.bytes COUNT : 0
+rocksdb.remote.compact.write.bytes COUNT : 0
+rocksdb.remote.compact.resumed.bytes COUNT : 0
+rocksdb.hot.file.read.bytes COUNT : 0
+rocksdb.warm.file.read.bytes COUNT : 0
+rocksdb.cool.file.read.bytes COUNT : 0
+rocksdb.cold.file.read.bytes COUNT : 0
+rocksdb.ice.file.read.bytes COUNT : 0
+rocksdb.hot.file.read.count COUNT : 0
+rocksdb.warm.file.read.count COUNT : 0
+rocksdb.cool.file.read.count COUNT : 0
+rocksdb.cold.file.read.count COUNT : 0
+rocksdb.ice.file.read.count COUNT : 0
+rocksdb.last.level.read.bytes COUNT : 16887095838
+rocksdb.last.level.read.count COUNT : 4010244
+rocksdb.non.last.level.read.bytes COUNT : 196249528115
+rocksdb.non.last.level.read.count COUNT : 49950658
+rocksdb.last.level.seek.filtered COUNT : 0
+rocksdb.last.level.seek.filter.match COUNT : 0
+rocksdb.last.level.seek.data COUNT : 0
+rocksdb.last.level.seek.data.useful.no.filter COUNT : 0
+rocksdb.last.level.seek.data.useful.filter.match COUNT : 0
+rocksdb.non.last.level.seek.filtered COUNT : 0
+rocksdb.non.last.level.seek.filter.match COUNT : 0
+rocksdb.non.last.level.seek.data COUNT : 0
+rocksdb.non.last.level.seek.data.useful.no.filter COUNT : 0
+rocksdb.non.last.level.seek.data.useful.filter.match COUNT : 0
+rocksdb.block.checksum.compute.count COUNT : 53956990
+rocksdb.block.checksum.mismatch.count COUNT : 0
+rocksdb.multiget.coroutine.count COUNT : 0
+rocksdb.read.async.micros COUNT : 0
+rocksdb.async.read.error.count COUNT : 0
+rocksdb.table.open.prefetch.tail.miss COUNT : 0
+rocksdb.table.open.prefetch.tail.hit COUNT : 0
+rocksdb.timestamp.filter.table.checked COUNT : 0
+rocksdb.timestamp.filter.table.filtered COUNT : 0
+rocksdb.readahead.trimmed COUNT : 0
+rocksdb.fifo.max.size.compactions COUNT : 0
+rocksdb.fifo.ttl.compactions COUNT : 0
+rocksdb.fifo.change_temperature.compactions COUNT : 0
+rocksdb.prefetch.bytes COUNT : 0
+rocksdb.prefetch.bytes.useful COUNT : 0
+rocksdb.prefetch.hits COUNT : 0
+rocksdb.footer.corruption.count COUNT : 0
+rocksdb.file.read.corruption.retry.count COUNT : 0
+rocksdb.file.read.corruption.retry.success.count COUNT : 0
+rocksdb.number.wbwi.ingest COUNT : 0
+rocksdb.sst.user.defined.index.load.fail.count COUNT : 0
+rocksdb.db.get.micros P50 : 18.091011 P95 : 234.505432 P99 : 339.648831 P100 : 8298.000000 COUNT : 25557870 SUM : 1623799914
+rocksdb.db.write.micros P50 : 6.765527 P95 : 14.892585 P99 : 20.806676 P100 : 5790.000000 COUNT : 12765340 SUM : 104086869
+rocksdb.compaction.times.micros P50 : 3600000.000000 P95 : 3641641.000000 P99 : 3641641.000000 P100 : 3641641.000000 COUNT : 12 SUM : 41094628
+rocksdb.compaction.times.cpu_micros P50 : 3274418.000000 P95 : 3274418.000000 P99 : 3274418.000000 P100 : 3274418.000000 COUNT : 12 SUM : 37069653
+rocksdb.subcompaction.setup.times.micros P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.table.sync.micros P50 : 8428.378378 P95 : 13713.000000 P99 : 15453.000000 P100 : 15453.000000 COUNT : 47 SUM : 411760
+rocksdb.compaction.outfile.sync.micros P50 : 28187.500000 P95 : 43215.000000 P99 : 43215.000000 P100 : 43215.000000 COUNT : 60 SUM : 1617606
+rocksdb.wal.file.sync.micros P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.manifest.file.sync.micros P50 : 274.142857 P95 : 372.757143 P99 : 591.000000 P100 : 591.000000 COUNT : 59 SUM : 15948
+rocksdb.table.open.io.micros P50 : 1371.709531 P95 : 2682.677165 P99 : 2888.031496 P100 : 4162.000000 COUNT : 1956 SUM : 2649378
+rocksdb.db.multiget.micros P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.read.block.compaction.micros P50 : 1.495634 P95 : 2.770661 P99 : 4.276152 P100 : 30.000000 COUNT : 987640 SUM : 2012187
+rocksdb.read.block.get.micros P50 : 8.691675 P95 : 29.023175 P99 : 43.645031 P100 : 6103.000000 COUNT : 52967394 SUM : 593507720
+rocksdb.write.raw.block.micros P50 : 0.511675 P95 : 0.972182 P99 : 1.875189 P100 : 6763.000000 COUNT : 985165 SUM : 2175417
+rocksdb.numfiles.in.singlecompaction P50 : 9.000000 P95 : 9.000000 P99 : 9.000000 P100 : 9.000000 COUNT : 12 SUM : 108
+rocksdb.db.seek.micros P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.db.write.stall P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.sst.read.micros P50 : 1.011797 P95 : 1.985365 P99 : 2.817183 P100 : 4288.000000 COUNT : 53960902 SUM : 85728194
+rocksdb.file.read.flush.micros P50 : 3.000000 P95 : 24.400000 P99 : 35.360000 P100 : 39.000000 COUNT : 184 SUM : 1236
+rocksdb.file.read.compaction.micros P50 : 0.655555 P95 : 1.831329 P99 : 2.200000 P100 : 98.000000 COUNT : 987880 SUM : 1217605
+rocksdb.file.read.db.open.micros P50 : 1.669858 P95 : 1683.823529 P99 : 2339.655172 P100 : 3772.000000 COUNT : 7400 SUM : 2203398
+rocksdb.file.read.get.micros P50 : 1.022339 P95 : 1.986644 P99 : 2.818986 P100 : 4288.000000 COUNT : 52965438 SUM : 82305955
+rocksdb.file.read.multiget.micros P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.file.read.db.iterator.micros P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.file.read.verify.db.checksum.micros P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.file.read.verify.file.checksums.micros P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.sst.write.micros P50 : 0.501732 P95 : 0.953291 P99 : 0.993430 P100 : 6760.000000 COUNT : 1970437 SUM : 1779647
+rocksdb.file.write.flush.micros P50 : 0.501992 P95 : 0.953785 P99 : 0.993944 P100 : 6760.000000 COUNT : 356066 SUM : 335400
+rocksdb.file.write.compaction.micros P50 : 0.501631 P95 : 0.953099 P99 : 0.993229 P100 : 1458.000000 COUNT : 1608924 SUM : 1438694
+rocksdb.file.write.db.open.micros P50 : 0.515034 P95 : 0.978565 P99 : 1.768603 P100 : 571.000000 COUNT : 5447 SUM : 5553
+rocksdb.num.subcompactions.scheduled P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.bytes.per.read P50 : 199.000000 P95 : 199.000000 P99 : 199.000000 P100 : 199.000000 COUNT : 25557870 SUM : 5086016130
+rocksdb.bytes.per.write P50 : 230.000000 P95 : 659.588141 P99 : 1120.283202 P100 : 3500.000000 COUNT : 9897922 SUM : 2901619184
+rocksdb.bytes.per.multiget P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.compression.times.nanos P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.decompression.times.nanos P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.read.num.merge_operands P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.blobdb.key.size P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.blobdb.value.size P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.blobdb.write.micros P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.blobdb.get.micros P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.blobdb.multiget.micros P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.blobdb.seek.micros P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.blobdb.next.micros P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.blobdb.prev.micros P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.blobdb.blob.file.write.micros P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.blobdb.blob.file.read.micros P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.blobdb.blob.file.sync.micros P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.blobdb.compression.micros P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.blobdb.decompression.micros P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.db.flush.micros P50 : 93780.487805 P95 : 135500.000000 P99 : 153411.000000 P100 : 153411.000000 COUNT : 46 SUM : 4182241
+rocksdb.sst.batch.size P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.multiget.io.batch.size P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.num.index.and.filter.blocks.read.per.level P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.num.sst.read.per.level P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.num.level.read.per.multiget P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.error.handler.autoresume.retry.count P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.async.read.bytes P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.poll.wait.micros P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.compaction.prefetch.bytes P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.prefetched.bytes.discarded P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 108 SUM : 0
+rocksdb.async.prefetch.abort.micros P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.table.open.prefetch.tail.read.bytes P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.num.op.per.transaction P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.multiscan.op.prepare.iterators.micros P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+
+=== RocksDB Stats End ===
