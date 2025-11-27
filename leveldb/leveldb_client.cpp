@@ -109,7 +109,7 @@ int LevelDBClient::do_scan(char *key_buffer, long scan_length) {
 	char* fadvise_hint_str = getenv("ENABLE_SCAN_FADVISE");
 	int fadvise_hint;
 	if (fadvise_hint_str != nullptr) {
-		read_options.is_scan = true;
+		// read_options.is_scan = true;
 		if (strcmp(fadvise_hint_str, "NOREUSE") == 0) {
 			fadvise_hint = POSIX_FADV_NOREUSE;
 		} else if (strcmp(fadvise_hint_str, "SEQUENTIAL") == 0) {
@@ -122,7 +122,7 @@ int LevelDBClient::do_scan(char *key_buffer, long scan_length) {
 			return -1;
 		}
 	} else {
-		read_options.is_scan = false;
+		// read_options.is_scan = false;
 	}
 	leveldb::Iterator* it = this->db->NewIterator(read_options);
 	// fprintf(stderr, "SCAN: Iterator created\n");
