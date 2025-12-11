@@ -2,13 +2,13 @@
 database:
   key_size: 16
   value_size: 200
-  nr_entry: 536870912
+  nr_entry: 136870912
   # nr_entry: 1000
 
 # Workload Parameters
 workload:
   nr_warmup_op: 10000000
-  warmup_runtime_seconds: 240
+  warmup_runtime_seconds: 45
   runtime_seconds: 240
   nr_op: 10000000
   nr_thread: 4
@@ -30,7 +30,7 @@ workload:
 
 # LevelDB Parameters
 leveldb:
-  data_dir: "/mydata/leveldb_temp"
-  options_file: "/mydata/My-YCSB/rocksdb/config/rocksdb_rubble_16gb_config.ini"
+  data_dir: "/home/splashy/leveldb_temp"
+  options_file: "/home/splashy/My-YCSB/rocksdb/config/rocksdb_rubble_16gb_config.ini"
   cache_size: 100000000
   print_stats: true
