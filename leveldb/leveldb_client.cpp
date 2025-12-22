@@ -104,6 +104,7 @@ int LevelDBClient::do_scan(char *key_buffer, long scan_length) {
 
 	// fprintf(stderr, "SCAN: Start\n");
 	leveldb::ReadOptions read_options = leveldb::ReadOptions();
+	read_options.fill_cache = false;
 	// If running in cache_ext mode, don't set the is_scan flag
 	// Read the ENABLE_BPF_SCAN_MAP environment variable
 	char* fadvise_hint_str = getenv("ENABLE_SCAN_FADVISE");
